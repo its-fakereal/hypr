@@ -1,2 +1,2 @@
 # hypr
-Hyprland
+Hyprland-configs
